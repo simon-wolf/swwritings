@@ -39,7 +39,7 @@ plugins:
 # Site owner
 author:
   name: Simon Wolf
-  picture: sw_avatar.jpg
+  picture: images/sw_avatar.jpg
   email: simon@swwritings.com
   twitter: sgaw
   github: simon-wolf
@@ -53,7 +53,7 @@ footer_links:
     url: https://github.com/simon-wolf
     icon: fab fa-github-square
   - title: Feed
-    url: atom.xml
+    url: feed.xml
     icon: fas fa-rss-square
   
 # Markdown
