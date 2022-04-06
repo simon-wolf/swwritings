@@ -20,13 +20,13 @@
 
 title: Simon Wolf's Writings
 email: simon@swwritings.com
-locale: en_UK
+locale: en_GB
 description: Sometimes random, occasionally focused, rarely proof-read.
 baseurl: ""
 url: "https://swwritings.com"
 twitter_username: sgaw
 github_username:  simon-wolf
-
+date_format: "%Y-%m-%d"
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
