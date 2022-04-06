@@ -44,6 +44,19 @@ owner:
   twitter: sgaw
   github: simon-wolf
 
+# Footer
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/sgaw
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/simon-wolf
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+  
+# Markdown
 kramdown:
   auto_ids: true
   footnote_nr: 1
