@@ -1,7 +1,6 @@
 ---
-layout: page
 title: License Agreement
-permalink: /licenseagreement/
+permalink: /license_agreement/
 ---
 
 ### Summary
@@ -27,7 +26,7 @@ The license requires that you give credit to me, Simon Wolf, as the original aut
 
 ***Includes “Name of Code” code by Simon Wolf.***
 
-where “Name of Code” would obviously be replaced by the name of the specific source-code package you made use of. Where possible, please link the text “Simon Wolf” to [my business website](https://www.ottersoftware.com), or include the site’s URL ([https://www.ottersoftware.com](https://www.ottersoftware.com)).
+where “Name of Code” would obviously be replaced by the name of the specific source-code package you made use of. Where possible, please link the text “Simon Wolf” to [my blog](https://swwritings.com), or include the site’s URL ([https://swwritings.com](https://swwritings.com)).
 
 ### Full Source Code License Text
 

@@ -1,10 +1,7 @@
 ---
 date: 2017-05-24 22:00
 title: New To Python
-permalink: /post/2017-05-24-new-to-python
 categories: python
-layout: post
-share: true
 ---
 
 I recently started teaching myself [Python](https://www.python.org) and decided that documenting some of my experiences and discoveries would be a good way to revitalise my blog.

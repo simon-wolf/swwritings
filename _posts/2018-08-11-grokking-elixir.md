@@ -1,10 +1,7 @@
 ---
 date: 2018-08-11 12:12
 title: Grokking Elixir
-permalink: /post/2018-08-11-grokking-elixir
 categories: elixir
-layout: post
-share: true
 ---
 
 ## Introduction

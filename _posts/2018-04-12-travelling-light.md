@@ -1,10 +1,7 @@
 ---
 date: 2018-04-12 15:50
 title: Traveling Light
-permalink: /post/2018-04-12-travelling-light
 categories: miscellaneous
-layout: post
-share: true
 ---
 
 I'm off to China for a week-long business trip soon and, because I didn't want to take my MacBook Pro with me (amongst other things, for privacy and security reasons I'd have to clear off a lot of data belonging to other clients) I decided to look into a couple of alternatives.

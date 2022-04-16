@@ -1,15 +1,14 @@
 ---
 date: 2012-06-15 10:15
 title: The Depressed Developer
-permalink: /post/2012-06-15-the-depressed-developer
 categories: health
-layout: post
-share: true
 ---
 
 I've moved the conclusion from the end to the top. If you only have one minute, read this bit and ignore the rest.
 
 Whatever work you do, but particularly if you are self-employed, take time off. Running yourself into the ground is the worst thing you can do in terms of being able to function properly, mentally or physically. It is particularly important to do this if you currently or ever have suffered from depression because it is all too easy to let mistakes turn into self-doubt and that only leads to bigger issues. A relaxed, rested you is going to do far better work than a tired, stressed you. Even when deadlines are looming and you have mountains of things to do, take time off. It will help enormously. One of the most important things people can do is realise when they hit that wall where the quality of what they do diminishes and rather than giving in to having a lot on and ploughing on regardless do the reverse and take some time out.
+
+<!--more-->
 
 Okay, now here's what led to that...
 

@@ -1,10 +1,7 @@
 ---
 date: 2020-09-13 15:00
 title: My Bicycle History
-permalink: /post/2020-09-13-my-bicycle-history
 categories: health
-layout: post
-share: true
 ---
 
 ## The Roses

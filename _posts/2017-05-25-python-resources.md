@@ -1,10 +1,7 @@
 ---
 date: 2017-05-25 23:30
 title: Python Resources
-permalink: /post/2017-05-25-python-resources
 categories: python
-layout: post
-share: true
 ---
 
 ## Introduction

@@ -1,10 +1,7 @@
 ---
 date: 2020-09-13 16:00
 title: Choosing A New Bike
-permalink: /post/2020-09-13-choosing-a-new-bike
 categories: health
-layout: post
-share: true
 ---
 
 After realising that [my weight and fitness](https://www.swwritings.com/post/2020-09-13-weight-and-health) were in a bad way again I turned my attention to researching bicycles.

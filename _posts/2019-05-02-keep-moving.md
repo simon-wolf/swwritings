@@ -1,10 +1,7 @@
 ---
 date: 2019-05-02 16:00
 title: Keep Moving
-permalink: /post/2019-05-02-keep-moving
 categories: miscellaneous
-layout: post
-share: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GtN3Qb3yvvM?start=97" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

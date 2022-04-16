@@ -1,10 +1,7 @@
 ---
 date: 2017-05-25 15:00
 title: Visual Studio Code for Python Development
-permalink: /post/2017-05-25-visual-studio-code-for-python
 categories: python
-layout: post
-share: true
 ---
 
 ## Introduction

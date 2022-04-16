@@ -1,10 +1,7 @@
 ---
 date: 2020-02-19 18:17
 title: The Month of Linux on my Desktop
-permalink: /post/2020-02-19-the-month-of-linux-on-my-desktop
 categories: linux
-layout: post
-share: true
 ---
 
 ## Introduction

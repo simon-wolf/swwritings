@@ -1,10 +1,7 @@
 ---
 date: 2018-11-14 10:32
 title: From Evernote to Notes
-permalink: /post/2018-11-14-from-evernote-to-notes
 categories: miscellaneous
-layout: post
-share: true
 ---
 
 ## Introduction

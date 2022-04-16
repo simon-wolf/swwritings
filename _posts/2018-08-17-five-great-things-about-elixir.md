@@ -1,10 +1,7 @@
 ---
 date: 2018-08-17 10:00
 title: Five Great Things About Elixir
-permalink: /post/2018-08-17-five-great-things-about-elixir
 categories: elixir
-layout: post
-share: true
 ---
 
 ## Introduction

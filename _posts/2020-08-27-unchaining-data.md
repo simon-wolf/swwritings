@@ -1,10 +1,7 @@
 ---
 date: 2020-08-27 21:30
 title: Unchaining Data
-permalink: /post/2020-08-27-unchaining-data
 categories: linux
-layout: post
-share: true
 ---
 
 ## Introduction

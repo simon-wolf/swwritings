@@ -1,10 +1,7 @@
 ---
 date: 2020-09-13 14:00
 title: Weight and Health
-permalink: /post/2020-09-13-weight-and-health
 categories: health
-layout: post
-share: true
 ---
 
 In four months I turn 48. I am 5'8" (173 cm) and weight 15st 10lb (100kg). I am unfit and have a very sedentary lifestyle because I work from home as a software developer and spend most of my days sitting at a desk. My BMI is 33.4 when it should be between 18.5 and 25 and my weight should be between 55.4kg and 74.8kg. Essentially I need to lose between a quarter and half of my weight.

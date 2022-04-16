@@ -1,10 +1,7 @@
 ---
 date: 2019-07-27 14:30
 title: Functional Programming (Over?) Simplified
-permalink: /post/2019-07-26-functional-programming-over-simplified
 categories: elixir
-layout: post
-share: true
 ---
 
 ## Introduction
