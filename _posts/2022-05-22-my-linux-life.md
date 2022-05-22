@@ -12,7 +12,7 @@ As I mentioned yesterday, my laptop is a StarLite and my main work machine is, a
 
 ## Software
 
-### Operating Systems
+__Operating Systems__
 
 On my desktop computer I'm still using [Ubuntu](https://ubuntu.com/) 20.04. I'm currently undecided if I will simply update to 22.04 or move over to [Fedora](https://getfedora.org/) or [NixOS](https://nixos.org/).
 
@@ -22,7 +22,7 @@ My 4th generation StarLite will be set up with Fedora. This will allow me to ins
 
 All three computers use the [GNOME](https://www.gnome.org/) desktop but as part of my NixOS tinkering I will be playing with window managers again. This is mainly because I really like keyboard-driven environments but they are also less resource intensive than a full desktop environment so would be an added bonus on my StarLite.
 
-### Software Development
+__Software Development__
 
 Until mid-April I'd spent three years working at [Sketch](https://www.sketch.com/) as a backend developer but I am now self-employed again and working in the family business that my sister and I co-own, [Mindme](https://mindme.care/). I'm still focusing on writing [Elixir](https://elixir-lang.org/) code along with some [Python](https://www.python.org/) so the only major change to my development requirements has been not needing Docker any more.
 
@@ -37,7 +37,7 @@ Other development tools I use or am trying include:
 * [Insomnia](https://insomnia.rest/) as an API client.
 * [Beekeeper Studio](https://www.beekeeperstudio.io/) as a SQL client.
 
-### Office & Admin
+__Office & Admin__
 
 [LibraOffice](https://www.libreoffice.org/) is my go-to replacement for Word/Pages, Excel/Numbers and PowerPoint/Keynote. It seems to handle opening and editing Microsoft Office documents without much drama and can save documents in the [OpenDocument Format](https://opendocumentformat.org/) or as MS Office files.
 
@@ -49,7 +49,7 @@ I use [Markdown](https://daringfireball.net/projects/markdown/) a lot for writin
 
 I still use [Dropbox](https://www.dropbox.com) but might switch to a private instance of [Nextcloud](https://nextcloud.com/). 
 
-### Productivity / Other
+__Productivity / Other__
 
 Other applications I tend to use are:
 
