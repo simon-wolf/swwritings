@@ -1,6 +1,8 @@
-date: 2022-05-20 14:00
+---
+date: 2022-05-22 12:00
 title: My Linux Life
 categories: linux
+---
 
 ## Introduction
 
