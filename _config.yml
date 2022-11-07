@@ -21,7 +21,7 @@ title_separator		: "-"
 subtitle		: # site tagline that appears below site title in masthead
 name			: "Simon Wolf"
 description		: "Sometimes random, occasionally focused, rarely proof-read."
-url			: "https://blog.sgawolf.com"
+url			: "https://swwritings.com"
 baseurl			: ""
 repository		: "simon-wolf/swwritings"
 words_per_minute	: 200
